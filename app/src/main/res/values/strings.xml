@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Reservas</string>
+
+
+    <string name="btn_inicar_pantalla">Iniciar Sesion </string>
+    <string name="btn_registrar_pantalla">Registrarse </string>
+
+    <string name="btn_iniciar_Sesion">Iniciar Sesion </string>
+    <string name="btn_registrarse">Registrarse </string>
+
+    <string-array name="spn_sexo">
+        <item>Sexo</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+    </string-array>
+
+
+</resources>

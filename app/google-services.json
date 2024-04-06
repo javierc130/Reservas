@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281779321131",
+    "project_id": "reservas-caddf",
+    "storage_bucket": "reservas-caddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281779321131:android:06c0f522a95d1ab6016d6e",
+        "android_client_info": {
+          "package_name": "com.example.reservas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33ZBv6U0-Fbr1BIZAo2BJxy_6Y4rJgRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
